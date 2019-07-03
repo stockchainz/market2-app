@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac02c48f73c9ed740dcd3df140cc8cec",
+    "revision": "5506fcddb9aeab0a8f9f069ffbc3a670",
     "url": "/market2-app/index.html"
   },
   {
